@@ -16,5 +16,7 @@ The proposed project is an effort to append convenience and flexibility to Natio
 ####     -PyQt5 for GUI Implementation
 ####     -Matplotlib and NetworkX for Route Map and Map Implementation
 
+#### -Gephi was used to arrange the graphical/visual layout of the route networkx graph
+
 ## A handy gif of our output :)
 ![output](https://user-images.githubusercontent.com/60477228/107118746-c2631580-68a8-11eb-98d7-185573a31dcb.gif)
