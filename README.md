@@ -11,9 +11,10 @@ The proposed project is an effort to append convenience and flexibility to Natio
 -A map of the Delhi Metro system as a whole can be accessed on another page, to show all the 11 lines and 285 stations in the system, for the user’s convenience to decide their journey.
 
 ## PROGRAMMING LANGUAGE AND LIBRARIES USED:
-#### -Python Programming language was used to implement this project. The libraries used are as follows:
-#### -PyQt5 for GUI Implementation
-#### -Matplotlib and NetworkX for Route Map and Map Implementation
+#### -Python Programming language was used to implement this project. 
+####  The libraries used are as follows:
+####     -PyQt5 for GUI Implementation
+####     -Matplotlib and NetworkX for Route Map and Map Implementation
 
 ## A handy gif of our output :)
 ![output](https://user-images.githubusercontent.com/60477228/107118746-c2631580-68a8-11eb-98d7-185573a31dcb.gif)
