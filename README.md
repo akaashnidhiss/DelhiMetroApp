@@ -5,9 +5,9 @@ The proposed project is an effort to append convenience and flexibility to Natio
 
 ## FUNCTIONALITIES:
 -Allows the user to enter the metro station they begin their journey from and the station they wish to arrive at. The application will output the shortest route tobe taken to reach the destination within the shortest time frame possible. <br>
--Shows all the stations the user has to pass through, including stations where they have to switch between metro lines at. The colours of each line are also shown in the GUI to increase user-friendliness.
--Displays the total time and cost that would be required for the journey. 
--A route map of the Delhi Metro system can be accessed on the clicking of the ‘route map’ tab. This tab will display all the lines on the delhi metro system, highlighting the route that the user has to take for their journey. This map is geocoded, and hence the positioning of the stations are a small scale replica of the actual delhi metro system. 
+-Shows all the stations the user has to pass through, including stations where they have to switch between metro lines at. The colours of each line are also shown in the GUI to increase user-friendliness. <br>
+-Displays the total time and cost that would be required for the journey. <br>
+-A route map of the Delhi Metro system can be accessed on the clicking of the ‘route map’ tab. This tab will display all the lines on the delhi metro system, highlighting the route that the user has to take for their journey. This map is geocoded, and hence the positioning of the stations are a small scale replica of the actual delhi metro system. <br>
 -A map of the Delhi Metro system as a whole can be accessed on another page, to show all the 11 lines and 285 stations in the system, for the user’s convenience to decide their journey.
 
 ## PROGRAMMING LANGUAGE AND LIBRARIES USED:
@@ -15,8 +15,9 @@ The proposed project is an effort to append convenience and flexibility to Natio
 ####  The libraries used are as follows:
 ####     -PyQt5 for GUI Implementation
 ####     -Matplotlib and NetworkX for Route Map and Map Implementation
-
+<br>
 #### -Gephi was used to arrange the graphical/visual layout of the route networkx graph
 
 ## A handy gif of our output :)
+<br>
 ![output](https://user-images.githubusercontent.com/60477228/107118746-c2631580-68a8-11eb-98d7-185573a31dcb.gif)
