@@ -21,3 +21,6 @@ The proposed project is an effort to append convenience and flexibility to Natio
 ## A handy gif of our output :)
 
 ![output](https://user-images.githubusercontent.com/60477228/107118746-c2631580-68a8-11eb-98d7-185573a31dcb.gif)
+
+
+Project partner: github.com/anasuyamithra
