@@ -1,6 +1,10 @@
 # delhimetro.io
 ![GitHub repo size](https://img.shields.io/github/repo-size/akaashnidhiss/DelhiMetroApp?color=green&logo=Python&logoColor=white)
 <br>
+## A handy gif of our output :)
+
+![output](https://user-images.githubusercontent.com/60477228/107118746-c2631580-68a8-11eb-98d7-185573a31dcb.gif)
+
 The Delhi Metro system is used by millions of people everyday, connecting together an expanse as huge as Delhi and making it easy to navigate, for all people of every class. As a result the Delhi Metro network consists of Eleven colour-coded regular lines serving 285 stations with a total length of 389 kilometres, a mind boggling number of stations to traverse without getting lost in its enormity. 
 
 The proposed project is an effort to append convenience and flexibility to National/International tourists and everyday Delhiites by providing essential information related to the Delhi Metro System, the cheapest and easiest mode of transport around Delhi. It has been designed with a very user centric approach, with many functionalities that keep user-friendliness in mind. 
@@ -19,10 +23,5 @@ The proposed project is an effort to append convenience and flexibility to Natio
 ####     -Matplotlib and NetworkX for Route Map and Map Implementation
 
 #### -Gephi was used to arrange the graphical/visual layout of the route networkx graph
-
-## A handy gif of our output :)
-
-![output](https://user-images.githubusercontent.com/60477228/107118746-c2631580-68a8-11eb-98d7-185573a31dcb.gif)
-
 
 Project partner: github.com/anasuyamithra
